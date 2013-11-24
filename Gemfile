@@ -10,15 +10,11 @@ gem 'thin'
 group :test, :development do
   gem 'better_errors'
   gem 'binding_of_caller'
-  gem 'konacha'
-  gem 'minitest'
   gem 'sqlite3'
   gem 'pry'
   gem 'pry-nav'
   gem 'taps'
-  gem 'seed_dump'
-  gem 'timecop'
-  gem 'stylus'
+  gem 'stylus', :git => 'git://github.com/lucasmazza/ruby-stylus.git'
 end
 
 group :production do
