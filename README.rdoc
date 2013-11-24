@@ -1,3 +1,6 @@
 A small sample rails 4 app with gem 'stylus' 
-Note: This is being provided as a sample for the maintainer of the stylus gem 
-This code doesn't work for me at the moment so, don't use this for now.
+
+Note: This was provided as a sample for the maintainer of the stylus gem 
+per this issue: https://github.com/lucasmazza/ruby-stylus/issues/57
+
+It's been updated with the fix and should work as an example.
